@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall
+Logistic Regression,0.8873,0.5333,0.1538
+Decision Tree,0.8729,0.3429,0.1154
+KNN,0.8762,0.2778,0.0481
